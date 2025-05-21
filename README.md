@@ -1,5 +1,5 @@
 #  Who is :(e): ?
-<img src="" alt="eooo avatar" width="200"/>
+<img src="me-sticker.png" alt="eooo avatar" width="200"/>
 
 
 ---
